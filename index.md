@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+**Tianlei Wang**  
+131 Sadler Ave.  
+Winnipeg, Manitoba, R2M 1N9  
+Wangt316@myumanitoba.ca  
+431-335-2333  
 
-You can use the [editor on GitHub](https://github.com/hocky0414/COMP3040Resume.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### EDUCATION
+- Bachelor of Computer Science (Honours) September 2016 – present
+- University of Manitoba
+- Currently enrolled in 4th year.
+- GPA 3.38
+- _Expected date of completion December 2022_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### TECHNICAL SKILLS
+- Programming Languages
+	- Python, Processing, Java, C++, HTML.
+-Software Development life cycle
+	- Agile and Waterfall
+-	GIT Bash
+-	Socket programing using python
 
-### Markdown
+#### GENEAL SKILLS
+-	Teamwork
+	- Have experiences on multiple projects design/development
+-	Leadership/Responsible
+	- Through out projects, have given numerus concepts for features.
+Helped team member to get through problems during development.
+Coordinate team member’s job based on their advantages.
+-	Time management
+-	Helpful
+-	Speak both English and Mandarin fluently
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hocky0414/COMP3040Resume.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### INTERSTS
+-	Biking
+-	Kendo
+-	Reading interesting computer science papers
+-	Music
