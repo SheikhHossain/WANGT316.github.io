@@ -1,4 +1,4 @@
-**Tianlei Wang**  
+## Tianlei Wang
 131 Sadler Ave.  
 Winnipeg, Manitoba, R2M 1N9  
 Wangt316@myumanitoba.ca  
