@@ -8,7 +8,7 @@ Wangt316@myumanitoba.ca
 - Bachelor of Computer Science (Honours) September 2016 – present
 - University of Manitoba
 - Currently enrolled in 4th year.
-- GPA 3.38
+- GPA of 3.38
 - _Expected date of completion December 2022_
 
 #### TECHNICAL SKILLS
@@ -17,21 +17,21 @@ Wangt316@myumanitoba.ca
 -Software Development life cycle
 	- Agile and Waterfall
 -	GIT Bash
--	Socket programing using python
+-	Socket programming using python
 
-#### GENEAL SKILLS
+#### GENERAL SKILLS
 -	Teamwork
 	- Have experiences on multiple projects design/development
 -	Leadership/Responsible
-	- Through out projects, have given numerus concepts for features.
-Helped team member to get through problems during development.
-Coordinate team member’s job based on their advantages.
+	- Provided numerous concepts for features throughout projects.
+	-	Helped team member to get through problems during development.
+	-	Give tasks based on team members' advantages.
 -	Time management
 -	Helpful
 -	Speak both English and Mandarin fluently
 
-#### INTERSTS
+#### INTERESTS
 -	Biking
 -	Kendo
--	Reading interesting computer science papers
+-	Reading computer science papers
 -	Music
