@@ -28,7 +28,7 @@ Now, you have a brand new repository; the next step is to make a website!
   1. Click on **Choose a theme**
   1. Click on each theme and find your favourite
   1. Click on **Select theme** once you have decided
-  1. Scroll down and click **Commit changes**
+  1. Scroll down and click **Commit changes**  
     - This will make a new branch called gh-pages
 
 ![theme_demo](/img/create_theme.gif)
