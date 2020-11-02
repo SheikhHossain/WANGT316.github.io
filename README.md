@@ -52,6 +52,7 @@ You now have a template website hosted. It is time to change its content.
 >We do not need a fancy dynamic website for our documentations. Our documentation does not require a database or some server-side applications to support it. So make a static website make sense. A static website is straightforward, you can host them everywhere (GitHub page in this case), and change content is easy to do. To make things even simpler for us, we can use a static site generator to make the website. There are lots of static website generators out there. For more information, please check under [More Resources](#More-Resources).
 >
 >In the steps above, I have used a default theme. If you want to make your product/project successful, you may consider customizing your website. Customization is the chance to distinguish your project from all other similar projects out there. If you are not good at designing a theme (like me) for the website,  you may want to hire a designer or even talk to a designer about colour, spacing, ect..
+
 ####  Set up GitHub pages
 1. Go to your repository, and change current branch to **"gh-pages"**
    - You can do so by click **"main"** below **"Actions"**
