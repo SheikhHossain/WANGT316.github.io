@@ -44,7 +44,7 @@ Online Resume is a step-by-step tutorial that shows you how to host a resume on 
 >1. Click on each theme and find your favourite
 >1. Click on **"Select theme"** once you have decided
 >1. Scroll down and click **"Commit changes"**  
-> - This will make a new branch called gh-pages
+>   - This will make a new branch called gh-pages
 >
 >![theme_demo](/img/create_theme.gif "Set up a Jekyll theme")
 >You now have a template website hosted. It is time to change its content.
@@ -54,7 +54,7 @@ Online Resume is a step-by-step tutorial that shows you how to host a resume on 
 >>In the steps above, I have used a default theme. If you want to make your product/project successful, you may consider customizing your website. Customization is the chance to distinguish your project from all other similar projects out there. If you are not good at designing a theme (like me) for the website,  you may want to hire a designer or even talk to a designer about colour, spacing, ect..
 ####  Set up GitHub pages
 >  1. Go to your repository, and change current branch to **"gh-pages"**
->    - You can do so by click **"main"** below **"Actions"**
+>   - You can do so by click **"main"** below **"Actions"**
 >  1. Click on **"index.md"**
 >  1. Click on ![Edit this file](/img/pen.PNG)
 >  1. Replace the content with your Markdown formatted resume
