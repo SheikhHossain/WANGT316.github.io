@@ -56,7 +56,7 @@ You now have a template website hosted. It is time to change its content.
 1. Go to your repository, and change current branch to **"gh-pages"**
    - You can do so by click **"main"** below **"Actions"**
 1. Click on **"index.md"**
-1. Click on ![Edit this file](/img/pen.PNG)
+1. Click on ![Edit this file](/img/pen.PNG "pen icon")
 1. Replace the content with your Markdown formatted resume
 1. Click **"Commit changes"**
 
