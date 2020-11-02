@@ -71,7 +71,7 @@ You now have a template website hosted. It is time to change its content.
 1. Click on **"Settings"** for the repository
 1. Scroll down to find **"GitHub Pages"**
 1. You will discover **"Your site is published at _some link_ "**
-1. Click on the link  
+1. Click on the link
   - Also, remember to save your link for conveniences
 1. Your beautiful Resume is now hosted online
 
