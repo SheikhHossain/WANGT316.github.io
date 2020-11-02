@@ -64,7 +64,7 @@ You now have a template website hosted. It is time to change its content.
 ![content_demo](/img/change_content.gif "Change content to resume")
  Your resume is hosted online now! Let's see where it is hosted.
 
->Here the convenience of a static website kicks in. We can easily modify the website through a couple of operations. Since the website is static, there's no worry that someone wants to hack it. It is also possible to test the website on your local machine. In our case, we need to install Jekyll, and then we can preview the page locally.
+>Here, the convenience of a static website kicks in. We can easily modify the website through a couple of operations. Since the website is static, there's no worry that someone wants to hack it. It is also possible to test the website on your local machine. In our case, we need to install Jekyll, and then we can preview the page locally.
 >
 >Markdown, on the other hand, works directly with HTML, just put a raw markdown file there, and it works like a charm. It is so simple to compare to write an XML or HTML by hand. As a technical writer, it is crucial to put the most effort into the writing part.
 
