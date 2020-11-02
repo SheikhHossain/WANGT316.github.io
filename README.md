@@ -21,12 +21,12 @@ Online Resume is a step-by-step tutorial that shows you how to host a resume on 
 ## Instructions
 ####  Create a new Github repository
 >1. Click **"Your repositories"** under your Github avatar
-1. Click on the **"New"** button
-1. Your repository name should be **"_your_name_.github.io"**
-1. Make your repository public
-   - Private can also work if you have a Github PRO plan on your account.
-1. Toggle **"add a README file"**
-1. Click on **"Create repository"**
+>1. Click on the **"New"** button
+>1. Your repository name should be **"_your_name_.github.io"**
+>1. Make your repository public
+>   - Private can also work if you have a Github PRO plan on your account.
+>1. Toggle **"add a README file"**
+>1. Click on **"Create repository"**
 >
 >![repo_demo](/img/create_repo.gif "Create a new Github repository")
 >Now, you have a brand new repository; the next step is to make a website!
